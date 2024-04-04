@@ -5,7 +5,7 @@
 import java.util.Scanner;
 /**
  *
- * @author anisya pertemuan 2 
+ * @author nisya pertemuan 3
  */
 public class AksiScanner {
     public static void main(String args[])

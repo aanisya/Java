@@ -5,7 +5,7 @@
 import java.io.*;
 /**
  *
- * @author anisya pertemuan 3
+ * @author nisya pertemuan 3
  */
 public class LatBuffered {
     public static void main(String args[])throws Exception

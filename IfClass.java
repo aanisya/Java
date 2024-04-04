@@ -5,7 +5,7 @@
 
 /**
  *
- * @author anisya pertemuan 3
+ * @author nisya pertemuan 3
  */
 public class IfClass {
     public double TotBeli,potongan;

@@ -5,7 +5,7 @@
 import java.util.Scanner;
 /**
  *
- * @author anisya pertemuan 3
+ * @author nisya pertemuan 3
  */
 public class ClassScanner {
     public String nama;

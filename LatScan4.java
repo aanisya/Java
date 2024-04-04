@@ -5,7 +5,7 @@
 import java.util.*;
 /**
  *
- * @author anisya
+ * @author nisya pertemuan 3
  */
 public class LatScan4 {
     public static void main(String[] args) {
