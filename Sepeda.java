@@ -6,7 +6,7 @@ package Belajar;
 
 /**
  *
- * @author USER
+ * @author nisya pertemuan 2
  */
 public class Sepeda {
 int kecepatan = 0;

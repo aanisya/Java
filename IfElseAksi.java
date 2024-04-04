@@ -5,7 +5,7 @@
 
 /**
  *
- * @author anisya
+ * @author anisya pertemuan 3
  */
 public class IfElseAksi {
     public static void main(String[] args) {

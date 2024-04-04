@@ -5,7 +5,7 @@
 import java.util.Scanner;
 /**
  *
- * @author anisya
+ * @author anisya pertemuan 3
  */
 public class IfElseClass {
     public String nama,ket;

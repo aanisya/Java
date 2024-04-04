@@ -5,7 +5,7 @@
 import java.util.*;
 /**
  *
- * @author anisya
+ * @author anisya pertemuan 3
  */
 public class LatIf 
 {

@@ -6,7 +6,7 @@ package Belajar;
 
 /**
  *
- * @author USER
+ * @author nisya pertemuan 2
  */
 public class SepedaGunungBeraksi {
     public static void main(String[] args) {

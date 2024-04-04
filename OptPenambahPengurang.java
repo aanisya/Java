@@ -6,7 +6,7 @@ package Belajar;
 
 /**
  *
- * @author anisya
+ * @author nisya pertemuan 2
  */
 public class OptPenambahPengurang {
     public static void main(String[] args)
